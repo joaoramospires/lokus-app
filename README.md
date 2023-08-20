@@ -1,3 +1,5 @@
 # lokus-app
 
-Ele é um aplicativo de rastreio
+Ele é um aplicativo de rastreio.
+
+PAP
